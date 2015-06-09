@@ -1,0 +1,27 @@
+{
+  "name": "image-uploader",
+  "title": "Image Uploader",
+  "description": "The best jQuery plugin ever.",
+  "version": "0.1.0",
+  "homepage": "http://www.eastros.com/image-uploader",
+  "author": {
+    "name": "Umar Ashfaq",
+    "email": "umar.mughal2@gmail.com",
+    "url": "http://www.eastros.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Eastros/ImageUploader.git"
+  },
+  "bugs": "https://github.com/Eastros/ImageUploader/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.eastros.com/image-uploader/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
